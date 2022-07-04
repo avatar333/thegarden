@@ -4,4 +4,3 @@ tags: [peppers,varieties]
 ---
 
 🌶Peppers - Varieties
-

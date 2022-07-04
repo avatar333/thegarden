@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Equipment/Soil Mixes.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "see",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +69,13 @@
               "type": "backlink",
               "state": {
                 "file": "Equipment/Soil Mixes.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },

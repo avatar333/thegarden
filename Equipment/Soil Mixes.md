@@ -12,6 +12,7 @@ I attempt to use substrate components which are some combination of renewable, p
 
 
 ##### Soil Mix - Germinating seeds:
+#seeds
 | Component       | Quantity (ratio) |
 | --------------- | ---------------- |
 | Palm fiber peat | 2:1              |
