@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "e201e42713f1b8b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eecd97bc192641a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Equipment/Seeding trays.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4eb005fab71146ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0993033e450ce24d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148bee20e50ff608",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21f2b3255d6f9a85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d25746b7a1330df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b64a044689e8c1ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ae9aaf49ad28b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Equipment/Seeding trays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3eecd97bc192641a",
+  "lastOpenFiles": [
+    "Equipment/Seeding trays.md",
+    "Peppers/Varieties.md",
+    "Pepper/Untitled.md"
+  ]
+}
