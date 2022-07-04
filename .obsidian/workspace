@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Equipment/Seeding trays.md",
+            "file": "home.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment/Seeding trays.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "3eecd97bc192641a",
   "lastOpenFiles": [
+    "home.md",
     "Equipment/Seeding trays.md",
     "Peppers/Varieties.md",
     "Pepper/Untitled.md"
