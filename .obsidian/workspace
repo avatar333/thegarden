@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Equipment/Seeding trays.md",
-            "mode": "source"
+            "file": "🌿Herbs/Varieties.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equipment/Seeding trays.md",
+                "file": "🌿Herbs/Varieties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "3eecd97bc192641a",
   "lastOpenFiles": [
+    "🌿Herbs/Varieties.md",
+    "ZZZ_TEMPLATES/t_note.md",
     "Equipment/Seeding trays.md",
     "🌶Peppers/Varieties.md",
     "home.md",
