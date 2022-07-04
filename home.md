@@ -1,1 +1,3 @@
-Welcome
+Welcome to The Garden 42!
+
+
