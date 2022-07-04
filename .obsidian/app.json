@@ -3,5 +3,7 @@
   "vimMode": true,
   "tabSize": 2,
   "showFrontmatter": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "ZZZ_IMAGES"
 }

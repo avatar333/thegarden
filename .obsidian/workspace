@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🍅Vegetables/Varieties.md",
+            "file": "Equipment/Growing Substrate/Soils.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍅Vegetables/Varieties.md",
+                "file": "Equipment/Growing Substrate/Soils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,10 +83,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3eecd97bc192641a",
   "lastOpenFiles": [
+    "Equipment/Growing Substrate/Soils.md",
     "🍅Vegetables/Varieties.md",
     "Untitled.md",
     "home.md",
