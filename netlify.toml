@@ -20,6 +20,8 @@ SITE_TITLE = "The Garden 42"
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "http://thegarden42.netlify.app"
+#
+STRICT_LINE_BREAKS = "y"
 # (Optional) Site Timezone
 TIMEZONE = "Africa/Johannesburg"
 ZOLA_VERSION = "0.15.2"
@@ -38,7 +40,7 @@ SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "main"
+ROOT_SECTION_NAME = "root"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
