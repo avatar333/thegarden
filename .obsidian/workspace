@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌿Herbs/Varieties.md",
+            "file": "🍅Vegetables/Varieties.md",
             "mode": "preview"
           }
         }
@@ -68,11 +68,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌿Herbs/Varieties.md",
+                "file": "🍅Vegetables/Varieties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -83,16 +83,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "3eecd97bc192641a",
   "lastOpenFiles": [
+    "🍅Vegetables/Varieties.md",
+    "Untitled.md",
+    "home.md",
+    "🌶Peppers/Varieties.md",
     "🌿Herbs/Varieties.md",
     "ZZZ_TEMPLATES/t_note.md",
     "Equipment/Seeding trays.md",
-    "🌶Peppers/Varieties.md",
-    "home.md",
     "Pepper/Untitled.md"
   ]
 }
