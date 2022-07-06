@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "vimMode": true,
+  "tabSize": 2,
+  "showFrontmatter": true,
+  "legacyEditor": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "ZZZ_IMAGES",
+  "showUnsupportedFiles": true
+}
