@@ -6,5 +6,6 @@
   "legacyEditor": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "ZZZ_IMAGES",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
 }
