@@ -18,3 +18,5 @@ I attempt to use substrate components which are some combination of renewable, p
 | Palm fiber peat | 2:1              |
 | Vermiculite     | 0.5:1            |
 | Perlite         | 0.5:1            |
+| Vermicompost    | 0.5              | 
+
