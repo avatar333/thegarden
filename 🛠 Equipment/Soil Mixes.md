@@ -10,19 +10,20 @@ I attempt to use substrate components which are some combination of renewable, p
 -	[Perlite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/perlite-potting-soil.htm)
 -	[Vermicompost](https://www.thegardener.co.za/the-gardener/the_gardener_categories/the-wonder-of-vermicompost/)
 
-
-##### Soil Mix - Germinating seeds:
-| Component       | Quantity (ratio) |
-| --------------- | ---------------- |
-| Palm fiber peat | 2:1              |
-| Vermiculite     | 0.5:1            |
-| Perlite         | 0.5:1            |
-| Vermicompost    | 0.5:1            | 
-
-| asf     | arwrqrw |
-| ------- | ------- |
-| lkasjdf | lkjasdf | 
-
-| col1 | col2 | col3 |
-| ---- | ---- | ---- |
-| val1 | val2 | val3     |
+### Soil Mix - Seedling Germination
+| COMPONENT                                                                                                     | QUANTITY      | 
+| ------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Coco Fibre Coir](https://www.epicgardening.com/coconut-coir/)                                                | 2 parts       |
+| Finely sieved compost                                                                                         | 1 - 1.5 parts |
+| [Vermiculite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/vermiculite-growing-medium.htm) | 0.5 parts     |
+| [Perlite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/perlite-potting-soil.htm)           | 0.5 parts     |
+### Soil Mix 01 (SM01) - Transplanting seedlings in to bigger pots
+| COMPONENT                                                                                                     | QUANTITY                   |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [Coco Fibre Coir](https://www.epicgardening.com/coconut-coir/)                                                | 4 parts                    |
+| [Vermiculite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/vermiculite-growing-medium.htm) | 1 part                     |
+| [Perlite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/perlite-potting-soil.htm)           | 1 part                     |
+| River Sand                                                                                                    | 0.5 - 1 parts              |
+| Rock phosphate                                                                                                | TBD: a measurable quantity |
+| Worm casting                                                                                                  | 2 parts                    |
+| Mycorrhizal fungi powder                                                                                      | 5 ml                       | 
