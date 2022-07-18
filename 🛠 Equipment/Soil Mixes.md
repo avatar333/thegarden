@@ -8,7 +8,7 @@ I attempt to use substrate components which are some combination of renewable, p
 -	[Palm Fibre Peat](https://www.lifeisagarden.co.za/palmpeat/)
 -	[Vermiculite](https://www.gardenersworld.com/how-to/grow-plants/how-to-use-vermiculite/)
 -	[Perlite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/perlite-potting-soil.htm)
--	[Vermicompost](https://www.thegardener.co.za/the-gardener/the_gardener_categories/the-wonder-of-vermicompost/)
+-	[Vermicompost/Worm Casting](https://www.thegardener.co.za/the-gardener/the_gardener_categories/the-wonder-of-vermicompost/)
 
 ### Soil Mix - Seedling Germination
 | COMPONENT                                                                                                     | QUANTITY      | 
@@ -17,7 +17,7 @@ I attempt to use substrate components which are some combination of renewable, p
 | Finely sieved compost                                                                                         | 1 - 1.5 parts |
 | [Vermiculite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/vermiculite-growing-medium.htm) | 0.5 parts     |
 | [Perlite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/perlite-potting-soil.htm)           | 0.5 parts     |
-### Soil Mix 01 (SM01) - Transplanting seedlings in to bigger pots
+### Soil Mix - Transplanting seedlings into bigger pots
 | COMPONENT                                                                                                     | QUANTITY                   |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | [Coco Fibre Coir](https://www.epicgardening.com/coconut-coir/)                                                | 4 parts                    |
