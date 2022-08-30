@@ -7,7 +7,7 @@ tags: [peppers,strains]
 
 
 <img src="https://whiteharvestseed.com/wp-content/uploads/2018/12/serranopepper-10.jpg" width="250" height="200"><br>
-- [Serrano](https://www.chilipeppermadness.com/chili-pepper-types/medium-hot-chili-peppers/serrano-peppers/)
+- [Serrano](https://www.chilipeppermadness.com/chili-pepper-types/medium-hot-chili-peppers/serrano-peppers/) ^95999b
 
 ---
 <img src="https://www.pepperscale.com/wp-content/uploads/2018/10/hot-paper-lantern-768x670.jpg.webp" width="250" height="200"><br>
@@ -53,3 +53,14 @@ tags: [peppers,strains]
 	- https://www.cayennediane.com/peppers/golden-cayenne-pepper/
 	- https://www.chilipeppermadness.com/chili-pepper-types/medium-hot-chili-peppers/cayenne-golden-chili-peppers/
 	- https://www.specialtyproduce.com/produce/Golden_Cayenne_Chile_Peppers_9781.php
+
+
+---
+<img src="https://cdn.shopify.com/s/files/1/0200/5036/products/220214111303_03609_1800x1800.jpg?v=1644830341" width="300" height="200"><br>[Tinkerbell® Baby Red](https://www.seedsforafrica.co.za/a/downloads/-/c5387356b5fb93ea/e3a0a428acc53c0e)
+
+---
+<img src="https://cdn.shopify.com/s/files/1/0200/5036/products/01560_900x.jpeg?v=1421155646" width="300" height="300"><br>[Piquante Sweet Red Cherry Pepper - Capsicum baccatum v pendullum](https://www.seedsforafrica.co.za/products/piquante-sweet-red-cherry-pepper-capsicum-annuum-10-seeds?_pos=1&_sid=78e2562ce&_ss=r)
+
+---
+<img src="https://www.ballstraathof.co.za/media/product/thumbnail_images/Pepper%20Hot%20Uyababa1.jpg" width="350" height="250"><br>
+[Uyababa chilli](https://www.ballstraathof.co.za/en/product/2426/)
