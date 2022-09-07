@@ -15,9 +15,10 @@ I attempt to use substrate components which are some combination of renewable, p
 | COMPONENT                                                                                                     | QUANTITY      | 
 | ------------------------------------------------------------------------------------------------------------- | ------------- |
 | [Coco Fibre Coir](https://www.epicgardening.com/coconut-coir/)                                                | 2 parts       |
-| Finely sieved compost                                                                                         | 1 - 1.5 parts |
+| Finely sieved compost                                                                                         | 0.5 part |
 | [Vermiculite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/vermiculite-growing-medium.htm) | 0.5 parts     |
 | [Perlite](https://www.gardeningknowhow.com/garden-how-to/soil-fertilizers/perlite-potting-soil.htm)           | 0.5 parts     |
+
 ### Soil Mix - Transplanting seedlings into bigger pots
 | COMPONENT                                                                                                     | QUANTITY                   |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------- |
