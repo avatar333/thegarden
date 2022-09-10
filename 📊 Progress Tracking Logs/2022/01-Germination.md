@@ -78,7 +78,7 @@ tags: [newnote]
 ---
 
 ### Tray D
-==*Sowed on 10/09/2022*==
+*Sowed on 10/09/2022*
 
 | **D1**                |                   |                                                        |
 | ----------------- | ----------------- | ------------------------------------------------------ |
@@ -99,3 +99,22 @@ tags: [newnote]
 | ------------ | ------------ | ------------ |
 | Zinnia Giant | Zinnia Dwarf | Zinnia Dwarf |
 | Zinnia Dwarf | Zinnia Dwarf | Zinnia Dwarf | 
+
+---
+
+### Tray E
+
+| **E1** *Sowed 10/09/2022*              |                     |                                                        |
+| ------------------- | ------------------- | ------------------------------------------------------ |
+| Gladiolus Liliaceus | Gladiolus Liliaceus | Gladiolus Liliaceus                                    |
+| Gladiolus Liliaceus | Gladiolus Liliaceus | Asteraceae Centaurea cyanus (bachelor button blue boy) |
+
+| **E2** *Sowed 10/09/2022*                                           |                                                  |     |
+| ------------------------------------------------ | ------------------------------------------------ | --- |
+| Kochia Scoparia (Burning Bush, Mexican Fireweed) | Kochia Scoparia (Burning Bush, Mexican Fireweed) | Papaver Peoni    |
+| Kochia Scoparia (Burning Bush, Mexican Fireweed) | Papaver Peoni                                    | Papaver Peoni    |
+
+| **E3** *Sowed 10/09/2022*           |                   |                   |
+| ----------------- | ----------------- | ----------------- |
+| Hot Paper Lantern | Hot Paper Lantern | Hot Paper Lantern |
+| Hot Paper Lantern | Hot Paper Lantern | Hot Paper Lantern | 
