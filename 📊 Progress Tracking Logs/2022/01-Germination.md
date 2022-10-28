@@ -2,7 +2,7 @@
 created: 2022-09-07
 tags: [newnote]
 ---
-
+# THIS IS A TEST
 ### Tray A
 **Sowed on 05/09/2022**
 
@@ -78,7 +78,7 @@ tags: [newnote]
 ---
 
 ### Tray D
-*Sowed on 10/09/2022*
+**Sowed on 10/09/2022**
 
 | **D1**                |                   |                                                        |
 | ----------------- | ----------------- | ------------------------------------------------------ |
@@ -118,3 +118,8 @@ tags: [newnote]
 | ----------------- | ----------------- | ----------------- |
 | Hot Paper Lantern | Hot Paper Lantern | Hot Paper Lantern |
 | Hot Paper Lantern | Hot Paper Lantern | Hot Paper Lantern | 
+
+| E4 *Sowed 29/09/2022* |            |            |
+| --------------------- | ---------- | ---------- |
+| Delphinium            | Delphinium | Delphinium |
+| Delphinium            | Delphinium | Delphinium | 
