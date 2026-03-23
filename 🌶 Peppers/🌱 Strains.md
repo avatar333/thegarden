@@ -1,6 +1,8 @@
 ---
 created: July 4, 2022 7:28 PM
-tags: [peppers,strains]
+tags:
+  - peppers
+  - strains
 ---
 
 # 🌶 Peppers - Strains

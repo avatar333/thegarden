@@ -1,6 +1,7 @@
 ---
 created: 2022-08-30
-tags: [cost_log]
+tags:
+  - cost_log
 ---
 
 ### Costs for 2022
